@@ -13,7 +13,7 @@ public abstract class Product
     }
     public abstract string GetInformation();
 }
-//Структура даты
+//Создал структуру для Классов Meat и Vegetable чтоб рзнообразить свойства
 public struct Date
 {
     public int Day { get; }
