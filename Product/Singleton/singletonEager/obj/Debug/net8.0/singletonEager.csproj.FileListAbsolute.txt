@@ -1,0 +1,14 @@
+G:\3curse\SingletonLazy\singletonEager\bin\Debug\net8.0\singletonEager.exe
+G:\3curse\SingletonLazy\singletonEager\bin\Debug\net8.0\singletonEager.deps.json
+G:\3curse\SingletonLazy\singletonEager\bin\Debug\net8.0\singletonEager.runtimeconfig.json
+G:\3curse\SingletonLazy\singletonEager\bin\Debug\net8.0\singletonEager.dll
+G:\3curse\SingletonLazy\singletonEager\bin\Debug\net8.0\singletonEager.pdb
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\singletonEager.GeneratedMSBuildEditorConfig.editorconfig
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\singletonEager.AssemblyInfoInputs.cache
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\singletonEager.AssemblyInfo.cs
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\singletonEager.csproj.CoreCompileInputs.cache
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\singletonEager.dll
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\refint\singletonEager.dll
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\singletonEager.pdb
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\singletonEager.genruntimeconfig.cache
+G:\3curse\SingletonLazy\singletonEager\obj\Debug\net8.0\ref\singletonEager.dll
